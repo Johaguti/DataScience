@@ -1,2 +1,2 @@
 # DataScience
-All that i'm learing about DataScience
+All that I'm learning about DataScience
